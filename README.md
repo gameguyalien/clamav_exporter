@@ -1,6 +1,6 @@
 # ClamAV Exporter
 
-## Fork of ClamAV Exporter from [gameguyalien](https://github.com/gameguyalien/clamav_exporter) 
+## Fork of ClamAV Exporter from [sergeymakinen](https://github.com/sergeymakinen/clamav_exporter) 
 I plan to keep this project in more of a maintenance mode, unless PRs are submitted with vaild new features.
 I'll do My best to keep the project updated to maintain good cyber posture.
 
